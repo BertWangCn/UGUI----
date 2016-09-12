@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{0A356082-7988-612C-7DFE-1C92B4EC22A3}") = "UIFramewok", "Assembly-CSharp.csproj", "{D0BE4728-2B13-75EB-35F7-32C7679B98B7}"
+EndProject
+Project("{0A356082-7988-612C-7DFE-1C92B4EC22A3}") = "UIFramewok", "Assembly-CSharp-Editor.csproj", "{179AE3AC-5A63-AC2F-56DD-15517A4F3433}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0BE4728-2B13-75EB-35F7-32C7679B98B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0BE4728-2B13-75EB-35F7-32C7679B98B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0BE4728-2B13-75EB-35F7-32C7679B98B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0BE4728-2B13-75EB-35F7-32C7679B98B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{179AE3AC-5A63-AC2F-56DD-15517A4F3433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{179AE3AC-5A63-AC2F-56DD-15517A4F3433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{179AE3AC-5A63-AC2F-56DD-15517A4F3433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{179AE3AC-5A63-AC2F-56DD-15517A4F3433}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
